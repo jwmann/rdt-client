@@ -6,7 +6,6 @@ using RdtClient.Data.Enums;
 using RdtClient.Data.Models.Data;
 using RdtClient.Data.Models.DebridClient;
 using RdtClient.Service.Services;
-using System.Text.Json;
 
 namespace RdtClient.Service.Test.Services;
 
